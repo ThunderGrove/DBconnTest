@@ -1,0 +1,1 @@
+# Simple Java test for connecting to a MariaDB database. 
